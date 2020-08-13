@@ -1,0 +1,4 @@
+*.so
+*.pyc
+plot_templates.egg-info/
+plot_templates/__pycache__/
