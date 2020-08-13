@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: plot-templates
+Version: 0.0.1
+Summary: Templates for plot using seaborn, matplotlib and etc
+Home-page: UNKNOWN
+Author: Kilean Hwang
+Author-email: kilean@lbl.gov
+License: Lawrence Berkeley National Laboratory
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Topic :: Utilities
+Classifier: License :: Free for non-commercial use

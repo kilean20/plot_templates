@@ -1,0 +1,8 @@
+setup.py
+plot_templates/__init__.py
+plot_templates/plot_templates.py
+plot_templates.egg-info/PKG-INFO
+plot_templates.egg-info/SOURCES.txt
+plot_templates.egg-info/dependency_links.txt
+plot_templates.egg-info/not-zip-safe
+plot_templates.egg-info/top_level.txt
