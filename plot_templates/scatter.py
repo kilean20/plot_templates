@@ -58,6 +58,6 @@ def multivariateGrid(col_x, col_y, df, group_by, group_order, k_is_color=False,
         color='grey',
         vertical=True
     )
-    plt.legend(legends)
+    legend = plt.legend(legends)
     
-    return g
+    return g, legend
